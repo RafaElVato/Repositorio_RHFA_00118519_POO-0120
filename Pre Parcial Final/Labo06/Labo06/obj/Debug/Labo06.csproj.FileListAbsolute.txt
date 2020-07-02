@@ -1,0 +1,10 @@
+C:\Users\rafae\OneDrive\Escritorio\Ciclo 01 2020\Materia Poo\Labos\00118519_RHFA_POO\Labos\Labo06\Labo06\bin\Debug\Labo06.exe
+C:\Users\rafae\OneDrive\Escritorio\Ciclo 01 2020\Materia Poo\Labos\00118519_RHFA_POO\Labos\Labo06\Labo06\bin\Debug\Labo06.pdb
+C:\Users\rafae\OneDrive\Escritorio\Ciclo 01 2020\Materia Poo\Labos\00118519_RHFA_POO\Labos\Labo06\Labo06\obj\Debug\Labo06.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Escritorio\Ciclo 01 2020\Materia Poo\Labos\00118519_RHFA_POO\Labos\Labo06\Labo06\obj\Debug\Labo06.exe
+C:\Users\rafae\OneDrive\Escritorio\Ciclo 01 2020\Materia Poo\Labos\00118519_RHFA_POO\Labos\Labo06\Labo06\obj\Debug\Labo06.pdb
+C:\Users\rafae\OneDrive\Escritorio\Pre Parcial Final\Labo06\Labo06\obj\Debug\Labo06.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Escritorio\Pre Parcial Final\Labo06\Labo06\obj\Debug\Labo06.exe
+C:\Users\rafae\OneDrive\Escritorio\Pre Parcial Final\Labo06\Labo06\obj\Debug\Labo06.pdb
+C:\Users\rafae\OneDrive\Escritorio\Pre Parcial Final\Labo06\Labo06\bin\Debug\Labo06.exe
+C:\Users\rafae\OneDrive\Escritorio\Pre Parcial Final\Labo06\Labo06\bin\Debug\Labo06.pdb

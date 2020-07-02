@@ -1,0 +1,10 @@
+Parte teórica: Pre Parcial Final POO
+
+El patron de diseño que se escogio para esta ocasión a sido el patron "Proxy". La razón de la
+implementación de este patron a sido por su facilidad de manejo, su sencilles al momento de brindar
+seguridad a los datos que se tienen, dandoles proteccion y accesibilidad más limitada.
+
+La ventaja que ofrece es que en este caso, siendo un programa con registro de notas me parecia
+buena idea implementar esta opción de que no todo mundo pueda modificar las notas resguardas dentro
+del registro, dejando disposición de modificarlo unicamente aquellos que tengan la contraseña de acceso.
+
